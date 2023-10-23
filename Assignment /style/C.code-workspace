@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../../C"
+		},
+		{
+			"path": "../../../C++"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../JAVA"
+		},
+		{
+			"path": "../../../sem-5 c++"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html"
+	}
+}

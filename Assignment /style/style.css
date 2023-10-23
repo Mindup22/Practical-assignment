@@ -1,0 +1,41 @@
+
+nav{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: aliceblue;
+}
+
+nav{
+    padding: 20px;
+    height: 15vh;
+}
+nav ul{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+button.shift{
+    margin-left: 150px;
+    color: white;
+    background-color:rgb(199, 80, 105);
+   border-bottom:10%;
+}
+div.s{
+    justify-content: center;
+    
+}
+button.s{
+    background-color: aqua;
+    margin-left: 50%;
+}
+
+nav ul li{
+    list-style-type: none;
+    margin-right: 5%;
+    font-weight: 600;
+}
+div.font{
+    align-items: center;
+    font-size:larger;  
+}
